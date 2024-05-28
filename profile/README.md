@@ -4,6 +4,15 @@ Original disseration prototype project:
 https://github.com/lemon-stand
 
 
+Other projects:
+
+- https://gitlab.com/219studios/219studios
+- https://github.com/come219/pygame_ring_of_fire
+- https://github.com/come219/pygame_cardgame
+- https://github.com/come219/cpp-SDL2-OpenGL-mmortsmoba
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
